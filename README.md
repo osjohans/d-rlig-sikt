@@ -3,6 +3,7 @@
 # Innholdsfortegnelse
 
 - [Universell utfomring](#univsersell-utforming)
+- [1. Kontrast](#1-kontrast)
 
 Dårlig sikt er en værapplikasjon utvilket i et emnet ved UiO i samarbeid med MET (Metrologisk Institutt). Jeg, sammen med 5 andre, utviklet appen i henhold til casen "Case 3. Værvarsel for svaksynte" (https://in2000.met.no/2023/3-svaksynte). Vi jobbet smidig etter beste evne (scrum + kanban) gjennom et semester. Vi valgte denne casen fordi vi ville lære mer om, og ha litt mer praktisk utvikling, med hensyn til universell utforming.  
 
