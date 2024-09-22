@@ -13,7 +13,7 @@
   - [4. Instillinger](#4-instillinger)
   - [5. Favoritter](#5-favoritter)
 
-Dårlig sikt er en værapplikasjon utvilket i et emnet ved UiO i samarbeid med MET (Metrologisk Institutt). Jeg, sammen med 5 andre, utviklet appen i henhold til casen "Case 3. Værvarsel for svaksynte" (https://in2000.met.no/2023/3-svaksynte). Vi jobbet smidig etter beste evne (scrum + kanban) gjennom et semester. Vi valgte denne casen fordi vi ville lære mer om, og ha litt mer praktisk utvikling, med hensyn til universell utforming.  
+Dårlig sikt er en værapplikasjon utvilket i et emnet ved UiO i samarbeid med MET (Metrologisk Institutt). Jeg, sammen med 5 andre, utviklet appen i henhold til casen "Case 3. Værvarsel for svaksynte" (https://in2000.met.no/2023/3-svaksynte). Vi jobbet smidig etter beste evne (scrum + kanban) gjennom et semester. Vi valgte denne casen fordi vi ville lære mer om, og ha litt mer praktisk utvikling, med fokus på universell utforming.  
 
 <div align="center">
   <img src="bilder/logo.png" alt="logo" width="500">
