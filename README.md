@@ -3,15 +3,15 @@
 # Innholdsfortegnelse
 
 - [Universell utfomring](#univsersell-utforming)
-- [1. Kontrast](#1-kontrast)
-- [2. Kartlegging av WCAG 2.1 krav](#2-kartlegging-av-wcag-21-krav)
-- [3. Universell utformet](#3-universell-utformet)
+  - [1. Kontrast](#1-kontrast)
+  - [2. Kartlegging av WCAG 2.1 krav](#2-kartlegging-av-wcag-21-krav)
+  - [3. Universell utformet](#3-universell-utformet)
 - [Overblikk over funksjonalitet](#overblikk-over-funksjonalitet)
-- [1. Hjermskjerm](#1-hjermskjerm)
-- [2. Korttidsvarsel](#2-korttidsvarsel)
-- [3. Langtidsvarsel](#3-langtidsvarsel)
-- [4. Instillinger](#4-instillinger)
-- [5. Favoritter](#5-favoritter)
+  - [1. Hjermskjerm](#1-hjermskjerm)
+  - [2. Korttidsvarsel](#2-korttidsvarsel)
+  - [3. Langtidsvarsel](#3-langtidsvarsel)
+  - [4. Instillinger](#4-instillinger)
+  - [5. Favoritter](#5-favoritter)
 
 Dårlig sikt er en værapplikasjon utvilket i et emnet ved UiO i samarbeid med MET (Metrologisk Institutt). Jeg, sammen med 5 andre, utviklet appen i henhold til casen "Case 3. Værvarsel for svaksynte" (https://in2000.met.no/2023/3-svaksynte). Vi jobbet smidig etter beste evne (scrum + kanban) gjennom et semester. Vi valgte denne casen fordi vi ville lære mer om, og ha litt mer praktisk utvikling, med hensyn til universell utforming.  
 
