@@ -1,6 +1,6 @@
 # Dårlig Sikt
 
-# Innholdsfortegnelse
+## Innholdsfortegnelse
 
 - [Universell utfomring](#univsersell-utforming)
   - [1. Kontrast](#1-kontrast)
