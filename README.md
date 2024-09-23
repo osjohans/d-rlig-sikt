@@ -10,8 +10,9 @@
   - [1. Hjermskjerm](#1-hjermskjerm)
   - [2. Korttidsvarsel](#2-korttidsvarsel)
   - [3. Langtidsvarsel](#3-langtidsvarsel)
-  - [4. Instillinger](#4-instillinger)
-  - [5. Favoritter](#5-favoritter)
+  - [4. Søk](#4-søk)
+  - [5. Instillinger](#5-instillinger)
+  - [6. Favoritter](#6-favoritter)
 
 Dårlig sikt er en værapplikasjon utvilket i et emnet ved UiO i samarbeid med MET (Metrologisk Institutt). Jeg, sammen med 5 andre, utviklet appen i henhold til casen "Case 3. Værvarsel for svaksynte" (https://in2000.met.no/2023/3-svaksynte). Vi jobbet smidig etter beste evne (scrum + kanban) gjennom et semester. Vi valgte denne casen fordi vi ville lære mer om, og ha litt mer praktisk utvikling, med fokus på universell utforming.  
 
@@ -88,7 +89,15 @@ Her vil brukeren få et langtidsværvarsel.
   <img src="bilder/langtidsvarsel.png" alt="langtidsvarsel" width="300">
 </div>
 
-### 4. Instillinger
+### 4. Søk
+
+Her vil brukeren få muligheten til å søke etter en by eller sted, der man ønsker å se været fra. 
+
+<div align="center">
+  <img src="bilder/sokside.png" alt="søk side" width="300">
+</div>
+
+### 5. Instillinger
 
 Her vil brukeren få muligheten til å velge mellom 1. celsius eller fahrenheit og 2. skriftstørrelse. 
 
@@ -102,7 +111,7 @@ I forbindelse med at en bruker kan ha ulik tekststørrelse har vi lagt inn tekst
   <img src="bilder/text-overflow.png" alt="tekst overflow" width="550">
 </div>
 
-### 5. Favoritter
+### 6. Favoritter
 
 Her vil brukeren få muligheten til å velge ulike favoritter. 
 
