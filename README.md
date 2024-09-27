@@ -2,6 +2,8 @@
 
 Dårlig sikt er en værapplikasjon utvilket i et emnet ved UiO i samarbeid med MET (Metrologisk Institutt). Jeg, sammen med 5 andre, utviklet appen i henhold til casen "Case 3. Værvarsel for svaksynte" (https://in2000.met.no/2023/3-svaksynte). Vi jobbet smidig etter beste evne (scrum + kanban) gjennom et semester. Vi valgte denne casen fordi vi ville lære mer om, og ha litt mer praktisk utvikling, med fokus på universell utforming. 
 
+Dårlig Sikt er utvilket for Android i Kotlin. Vi brukte, blant annet, MVVM-arkitektur og en lokal database for lagring av favoritter og innstillinger.
+
 ## Innholdsfortegnelse
 
 - [Universell utfomring](#univsersell-utforming)
